@@ -12,6 +12,10 @@ This document is modular, and there are a few idiosyncracies to it.
 Repo Structure
 ==============
 ./document.tex   - This is the big document containing all of the sections and subsections.
+
 ./mystyle.sty    - This is the style document. New commands are placed here, as are packages.
+
 ./tex/           - This is the folder for sections of the document.
+
 ./img/           - This folder is the images folder. It's probably empty.
+
