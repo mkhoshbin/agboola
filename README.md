@@ -1,7 +1,7 @@
 agboola
 =======
 
-This document is a collaborative effort to expand and improve upon the notes of Simon Rubinstein–Salzedo for Agboola's Math 220 notes at UCSB.
+This document is a collaborative effort to expand and improve upon the notes of Simon Rubinstein–Salzedo for Agboola's Math 220 class at UCSB.
 
 To compile, just check out the repo/download and then run your preferred LaTeX frontend/pdflatex.
 
